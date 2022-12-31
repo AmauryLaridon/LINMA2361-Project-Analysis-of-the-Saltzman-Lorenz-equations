@@ -2,7 +2,7 @@
 
 This Github belongs to the project done in the course __LINMA2361 - Système Dynamiques non linéaires : Analysis of the Saltzman-Lorenz equations.__
 
-The file *simu.ipynb* contains the simulations which are used in the report.
+The file *simu.ipynb* contains the simulations which are used in the report. The program is written in Julia. 
 
 The rapport can be found at *projet.pdf*
 
